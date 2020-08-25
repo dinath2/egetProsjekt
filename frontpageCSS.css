@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://i.imgur.com/v69rrbd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#MarmaladeButton:hover {
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgb(240, 252, 79);
+}
+#MarmaladeButton {
+    width: 200px;
+}
